@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-rr-black text-rr-white font-sans;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Кастомный класс для центрирования контента в секциях */
+.section-content {
+  @apply w-full h-full flex flex-col items-center justify-center text-center;
+}
