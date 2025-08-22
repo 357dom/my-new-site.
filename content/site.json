@@ -1,38 +1,38 @@
 {
   "header": {
-    "logoUrl": "https://res.cloudinary.com/demo/image/upload/v1615822943/rolls_royce_logo_white.svg",
+    "logoUrl": " https://res.cloudinary.com/dhjh9lekk/image/upload/v1755848415/logo-header-A_tg5mmx.svg",
     "menuText": "Menu",
     "findDealerText": "Find a Dealer"
   },
   "hero": {
-    "supertitle": "Rolls-Royce Motor Cars Presents",
-    "title": "Ghost Series II",
+    "supertitle": "LUXURY GOODS COMPANY",
+    "title": "INSPIRATION",
     "cta": {
       "text": "Discover Now",
       "href": "#"
     },
     "background": {
       "type": "image",
-      "desktop": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_1920/v1724289602/rolls-royce/ghost_hero_desktop.jpg",
-      "tablet": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_1024/v1724289602/rolls-royce/ghost_hero_desktop.jpg",
-      "mobile": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_768/v1724289603/rolls-royce/ghost_hero_mobile.jpg"
+      "desktop": "https://res.cloudinary.com/dhjh9lekk/image/upload/v1755850235/JPG_2560x1440_ibowmy.jpg",
+      "tablet": "https://res.cloudinary.com/dhjh9lekk/image/upload/v1755850235/JPG_2560x1440_ibowmy.jpg",
+      "mobile": "https://res.cloudinary.com/dhjh9lekk/image/upload/v1755850235/JPG_2560x1440_ibowmy.jpg"
     }
   },
   "contentBlocks": [
     {
-      "id": "black-badge",
-      "supertitle": "Black Badge",
-      "title": "Ghost",
-      "subtitle": "Series II",
+      "id": "EXTRAORDINARY",
+      "supertitle": "PRICELESS",
+      "title": "TIMELESS",
+      "subtitle": "EXCEPTIONAL",
       "cta": {
         "text": "Discover Now",
         "href": "#"
       },
       "background": {
         "type": "image",
-        "desktop": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_1920/v1724289602/rolls-royce/black_badge_desktop.jpg",
-        "tablet": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_1024/v1724289602/rolls-royce/black_badge_desktop.jpg",
-        "mobile": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_768/v1724289603/rolls-royce/black_badge_mobile.jpg"
+        "desktop": "https://res.cloudinary.com/dhjh9lekk/image/upload/v1755852967/EMERALD_CUT_SHAPED_SKYSCRAPER_witn97.jpg",
+        "tablet": "https://res.cloudinary.com/dhjh9lekk/image/upload/v1755852967/EMERALD_CUT_SHAPED_SKYSCRAPER_witn97.jpg",
+        "mobile": "https://res.cloudinary.com/dhjh9lekk/image/upload/v1755852967/EMERALD_CUT_SHAPED_SKYSCRAPER_witn97.jpg"
       }
     },
     {
@@ -46,12 +46,12 @@
           "imageUrl": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_800/v1724289603/rolls-royce/explore_1.jpg"
         },
         {
-          "title": "Phantom",
+          "title": "EXQUISITE",
           "text": "The icon of icons. Phantom embodies an unwavering pursuit of perfection.",
           "imageUrl": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_800/v1724289602/rolls-royce/explore_2.jpg"
         },
         {
-          "title": "Discover Spectre",
+          "title": "EXPRESSION",
           "text": "A super coupe that blends precise handling with fastback beauty.",
           "imageUrl": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_800/v1724289602/rolls-royce/explore_3.jpg"
         }
@@ -65,6 +65,6 @@
       ["Pressclub", "Contact", "Privacy", "Do Not Sell"],
       ["Complaints", "Find a Dealer", "Careers", "Disconnect Remote"]
     ],
-    "copyright": "Rolls-Royce Motor Cars"
+    "copyright": "LUXURY GOODS COMPANY"
   }
 }
