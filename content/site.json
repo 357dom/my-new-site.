@@ -1,8 +1,8 @@
 {
   "header": {
     "logoUrl": "https://res.cloudinary.com/demo/image/upload/v1615822943/rolls_royce_logo_white.svg",
-    "menuText": "Меню",
-    "findDealerText": "Найти дилера"
+    "menuText": "Menu",
+    "findDealerText": "Find a Dealer"
   },
   "hero": {
     "supertitle": "Rolls-Royce Motor Cars Presents",
@@ -65,7 +65,6 @@
       ["Pressclub", "Contact", "Privacy", "Do Not Sell"],
       ["Complaints", "Find a Dealer", "Careers", "Disconnect Remote"]
     ],
-    "socials": ["youtube", "facebook", "instagram", "linkedin", "twitter"],
     "copyright": "Rolls-Royce Motor Cars"
   }
 }
