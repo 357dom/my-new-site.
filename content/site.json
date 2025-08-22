@@ -1,0 +1,71 @@
+{
+  "header": {
+    "logoUrl": "https://res.cloudinary.com/demo/image/upload/v1615822943/rolls_royce_logo_white.svg",
+    "menuText": "Меню",
+    "findDealerText": "Найти дилера"
+  },
+  "hero": {
+    "supertitle": "Rolls-Royce Motor Cars Presents",
+    "title": "Ghost Series II",
+    "cta": {
+      "text": "Discover Now",
+      "href": "#"
+    },
+    "background": {
+      "type": "image",
+      "desktop": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_1920/v1724289602/rolls-royce/ghost_hero_desktop.jpg",
+      "tablet": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_1024/v1724289602/rolls-royce/ghost_hero_desktop.jpg",
+      "mobile": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_768/v1724289603/rolls-royce/ghost_hero_mobile.jpg"
+    }
+  },
+  "contentBlocks": [
+    {
+      "id": "black-badge",
+      "supertitle": "Black Badge",
+      "title": "Ghost",
+      "subtitle": "Series II",
+      "cta": {
+        "text": "Discover Now",
+        "href": "#"
+      },
+      "background": {
+        "type": "image",
+        "desktop": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_1920/v1724289602/rolls-royce/black_badge_desktop.jpg",
+        "tablet": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_1024/v1724289602/rolls-royce/black_badge_desktop.jpg",
+        "mobile": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_768/v1724289603/rolls-royce/black_badge_mobile.jpg"
+      }
+    },
+    {
+      "id": "explore-further",
+      "supertitle": "Explore Further",
+      "title": "Continue Your Journey",
+      "cards": [
+        {
+          "title": "A Century of Power",
+          "text": "For a century, Phantom has embodied Rolls-Royce's relentless pursuit of perfection.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_800/v1724289603/rolls-royce/explore_1.jpg"
+        },
+        {
+          "title": "Phantom",
+          "text": "The icon of icons. Phantom embodies an unwavering pursuit of perfection.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_800/v1724289602/rolls-royce/explore_2.jpg"
+        },
+        {
+          "title": "Discover Spectre",
+          "text": "A super coupe that blends precise handling with fastback beauty.",
+          "imageUrl": "https://res.cloudinary.com/demo/image/upload/f_auto,q_auto,w_800/v1724289602/rolls-royce/explore_3.jpg"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "columns": [
+      ["Pre-Owned", "Whispers", "Site Map", "Language"],
+      ["Cookies", "FAQs", "Financial Services", "Terms"],
+      ["Pressclub", "Contact", "Privacy", "Do Not Sell"],
+      ["Complaints", "Find a Dealer", "Careers", "Disconnect Remote"]
+    ],
+    "socials": ["youtube", "facebook", "instagram", "linkedin", "twitter"],
+    "copyright": "Rolls-Royce Motor Cars"
+  }
+}
